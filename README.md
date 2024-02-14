@@ -1,1 +1,1 @@
-# course_pythom-QALight
+# course-pythom-QALight
